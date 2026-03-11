@@ -1,4 +1,4 @@
-🌱 KrishiGuard AI – Summary (Point-wise)
+🌱 KrishiGuard AI 
 1️⃣ Introduction
 
 KrishiGuard AI is an AI-based agriculture assistance system.
